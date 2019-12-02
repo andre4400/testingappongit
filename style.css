@@ -229,7 +229,9 @@ label{
     .about-detail{
        margin-top: 4em;
     }
-
+    a:hover{
+        color: #fefefd;
+    }
 }
 /********************************* ABOUT SECTION 2 ***********************************************************/
 #award{
